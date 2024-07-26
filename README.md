@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EnDiGi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on code
 - 📫 How to reach me: coming at my home
 - 😄 Pronouns: he
 - ⚡ Fun fact: I exist. I don't know if it's rare
