@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnDiGi
-- 👀 I’m interested in coding
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: coming to my house
 - 😄 Pronouns: he
