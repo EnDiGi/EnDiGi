@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnDiGi
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
 - 📫 How to reach me: coming to my house
 - 😄 Pronouns: he
 - ⚡ Fun fact: I exist. I don't know if it's rare
