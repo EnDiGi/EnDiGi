@@ -1,13 +1,19 @@
-- 👋 Hi, I’m @EnDiGi
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and C++
-- 📫 How to reach me: coming to my house
-- 😄 Pronouns: he
-- ⚡ Fun fact: I exist. I don't know if it's rare
-- 📢 My motto is: Functionality is better than Aesthetics
-- 🇮🇹 I'm Italian, so please don't mind any typos
+# This is me
+|Left|Right|
+|-|-|
+|(User)name|EnDiGi|
+|Gender|Male|
+|Nationality|Italian|
+|Motto|Functionality is better then aesthetics|
+|Favourite language|Python|
+|Languages I'm learning|Python, HTML, CSS, JS, C++|
+|Fun Fact|I exist. I don't know if it's rare|
 
-<!---
-EnDiGi/EnDiGi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I can do
+- [x] Eating
+- [x] Sleeping
+- [x] Coding
+- [ ] Everything else
+
+## Unpopular opinion
+I don't like pizza that much
