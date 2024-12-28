@@ -5,7 +5,7 @@
 |Gender|Male|
 |Nationality|Italian|
 |Motto|Functionality is better then aesthetics|
-|Favourite language|Python|
+|Favourite language|Javascript|
 |Languages I'm learning|Python, HTML, CSS, JS, C++|
 |Fun Fact|I exist. I don't know if it's rare|
 
